@@ -21,8 +21,8 @@ This is a Currency Converter App written in JavaScript. It allows you to convert
 
 <h3>APIs Used</h3>
 <ul>
-<li>Exchange rate API - Used to fetch the latest exchange rates.</li>
-<li>Countryflags.io API - Used to display country flags based on the user-selected currency.</li>
+<li> <strong>Exchange rate API</strong> - Used to fetch the latest exchange rates.</li>
+<li> <strong>Countryflags.io API</strong> - Used to display country flags based on the user-selected currency.</li>
 </ul>
 
 <h3>Demo</h3>
