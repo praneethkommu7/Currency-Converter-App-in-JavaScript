@@ -3,13 +3,10 @@ This is a Currency Converter App written in JavaScript. It allows you to convert
 
 <h3>Features</h3>
 <ul>
-<li>Select the "from" and "to" currencies from the dropdown list.</li>
-<li>Enter the amount you want to convert. You cannot leave the amount field blank or enter 0 as an amount. If you do it, then “1” will be filled automatically in the amount field.</li>
-<li>Click on the exchange icon to swap the "from" and "to" currencies.</li>
-<li>The app fetches the latest exchange rates from the API and calculates the converted amount accordingly.</li>
-<li>Country flags are displayed based on the user-selected currency.</li>
-<li>Responsive design for mobile and desktop devices.</li>
-<li>Error handling for invalid inputs and API failures.</li>
+<li>Users are required to select the currencies they wish to convert and enter the amount to be converted.</li>
+<li>The application uses the latest exchange rates obtained from the API to compute the converted amount, with the corresponding country flags being displayed based on the selected currency.</li>
+<li>The application has error handling capabilities that cater to invalid inputs and API failures. Additionally, it features a responsive design that caters to mobile and desktop devices.</li>
+
 </ul>
 
 <h3>Technologies Used</h3>
