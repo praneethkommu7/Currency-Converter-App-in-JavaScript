@@ -23,7 +23,7 @@ This is a Currency Converter App written in JavaScript. It allows you to convert
 </ul>
 
 <h3>Demo</h3>
-To see a live demo of the app, <a href="https://currency-converter-js-praneeth.netlify.app/">click here</a>.
+To see a live demo of the app, click <a href="https://currency-converter-js-praneeth.netlify.app/">here</a>.
 
 <h3>Contributing</h3>
 If you would like to contribute to this project, please fork the repository and make your changes. Once you are done, submit a pull request and your changes will be reviewed.
